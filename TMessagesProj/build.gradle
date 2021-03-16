@@ -1,21 +1,10 @@
 apply plugin: 'com.android.application'
 
 repositories {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
 
-    maven { url 'https://maven.aliyun.com/repository/gradle-plugin/' }
-    maven { url 'https://maven.aliyun.com/repository/public/' }
-    maven { url 'https://maven.aliyun.com/repository/jcenter/' }
-    maven { url 'https://maven.aliyun.com/repository/google/' }
-
-
->>>>>>> master
     mavenCentral()
     google()
     jcenter()
-=======
 
     maven { url 'https://maven.aliyun.com/repository/gradle-plugin/' }
     maven { url 'https://maven.aliyun.com/repository/public/' }
@@ -26,7 +15,6 @@ repositories {
 //    mavenCentral()
 //    google()
 //    jcenter()
->>>>>>> Stashed changes
 }
 
 configurations {
@@ -66,15 +54,9 @@ dependencies {
 }
 
 android {
-<<<<<<< Updated upstream
     compileSdkVersion 30
     buildToolsVersion '30.0.3'
     ndkVersion "21.1.6352462"
-=======
-    compileSdkVersion 29
-    buildToolsVersion '29.0.2'
-    ndkVersion '21.3.6528147'
->>>>>>> Stashed changes
 
     defaultConfig.applicationId = "org.telegram.messenger"
 
