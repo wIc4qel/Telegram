@@ -2,19 +2,32 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
+<<<<<<< HEAD
     "file": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+=======
+    "file": "E:\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+>>>>>>> master
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
+<<<<<<< HEAD
     "message": "JSON \u0027D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\android_gradle_build.json\u0027 was up-to-date",
     "file": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+=======
+    "message": "JSON \u0027E:\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "E:\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+>>>>>>> master
     "tag": "afatDebug|x86"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
+<<<<<<< HEAD
     "file": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+=======
+    "file": "E:\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+>>>>>>> master
     "tag": "afatDebug|x86"
   }
 ]

@@ -4,14 +4,22 @@
   "buildSettings": {
     "environmentVariables": []
   },
+<<<<<<< HEAD
   "cxxBuildFolder": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
+=======
+  "cxxBuildFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
+>>>>>>> master
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
+<<<<<<< HEAD
   "originalCxxBuildFolder": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
+=======
+  "originalCxxBuildFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\x86",
+>>>>>>> master
   "variant": {
     "buildSystemArgumentList": [
       "NDK_APPLICATION_MK:\u003djni/Application.mk",
@@ -19,13 +27,17 @@
       "--jobs\u003d8"
     ],
     "buildTargetSet": [],
+<<<<<<< HEAD
     "implicitBuildTargetSet": [],
+=======
+>>>>>>> master
     "cFlagsList": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "cppFlagsList": [],
     "isDebuggableEnabled": true,
     "module": {
       "buildSystem": "NDK_BUILD",
+<<<<<<< HEAD
       "cmakeToolchainFile": "D:\\Librarys\\Android_SDK\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
       "cxxFolder": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\.cxx",
       "gradleModulePathName": ":TMessagesProj",
@@ -33,13 +45,26 @@
       "makeFile": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
       "moduleBuildFile": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\build.gradle",
       "moduleRootFolder": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj",
+=======
+      "cmakeToolchainFile": "D:\\Android_SDK\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj\\.cxx",
+      "gradleModulePathName": ":TMessagesProj",
+      "intermediatesFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj\\build\\intermediates",
+      "makeFile": "E:\\Git@Hub\\Telegram\\TMessagesProj\\jni\\Android.mk",
+      "moduleBuildFile": "E:\\Git@Hub\\Telegram\\TMessagesProj\\build.gradle",
+      "moduleRootFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj",
+>>>>>>> master
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
+<<<<<<< HEAD
       "ndkFolder": "D:\\Librarys\\Android_SDK\\ndk\\21.3.6528147",
+=======
+      "ndkFolder": "D:\\Android_SDK\\ndk\\20.0.5594570",
+>>>>>>> master
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -68,7 +93,11 @@
       ],
       "ndkMetaPlatforms": {
         "min": 16,
+<<<<<<< HEAD
         "max": 30,
+=======
+        "max": 29,
+>>>>>>> master
         "aliases": {
           "20": 19,
           "25": 24,
@@ -84,8 +113,12 @@
           "O": 26,
           "O-MR1": 27,
           "P": 28,
+<<<<<<< HEAD
           "Q": 29,
           "R": 30
+=======
+          "Q": 29
+>>>>>>> master
         }
       },
       "ndkSupportedAbiList": [
@@ -95,6 +128,7 @@
         "X86_64"
       ],
       "ndkDefaultStl": "SYSTEM",
+<<<<<<< HEAD
       "ndkVersion": "21.3.6528147",
       "project": {
         "compilerSettingsCacheFolder": "D:\\Projects\\Git@Hub\\Telegram\\.cxx",
@@ -104,22 +138,44 @@
         "isNativeCompilerSettingsCacheEnabled": false,
         "rootBuildGradleFolder": "D:\\Projects\\Git@Hub\\Telegram",
         "sdkFolder": "D:\\Librarys\\Android_SDK",
+=======
+      "ndkVersion": "20.0.5594570",
+      "project": {
+        "compilerSettingsCacheFolder": "E:\\Git@Hub\\Telegram\\.cxx",
+        "cxxFolder": "E:\\Git@Hub\\Telegram\\.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "E:\\Git@Hub\\Telegram",
+        "sdkFolder": "D:\\Android_SDK",
+>>>>>>> master
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
+<<<<<<< HEAD
           "ARMEABI_V7A": "D:\\Librarys\\Android_SDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
           "ARM64_V8A": "D:\\Librarys\\Android_SDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
           "X86": "D:\\Librarys\\Android_SDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
           "X86_64": "D:\\Librarys\\Android_SDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+=======
+          "ARMEABI_V7A": "D:\\Android_SDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "D:\\Android_SDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "D:\\Android_SDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "D:\\Android_SDK\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+>>>>>>> master
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
+<<<<<<< HEAD
     "objFolder": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\obj\\local",
+=======
+    "objFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj\\build\\intermediates\\ndkBuild\\afatDebug\\obj\\local",
+>>>>>>> master
     "variantName": "afatDebug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -127,8 +183,15 @@
       "X86",
       "X86_64"
     ],
+<<<<<<< HEAD
     "prefabDirectory": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab",
     "prefabPackageDirectoryList": []
   },
   "prefabFolder": "D:\\Projects\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab\\x86"
+=======
+    "prefabDirectory": "E:\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "E:\\Git@Hub\\Telegram\\TMessagesProj\\.cxx\\ndkBuild\\afatDebug\\prefab\\x86"
+>>>>>>> master
 }
